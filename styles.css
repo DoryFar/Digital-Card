@@ -24,6 +24,7 @@ body {
     color: #e5e5e5;
     border-bottom: 8px solid #fca311;
     border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
         
     /*
     Challenge:
@@ -31,6 +32,11 @@ body {
     and use it in your business card.
      */
 }
+
+a {
+    color: #fca311;
+    font-style: italic;
+} 
 
 .border-blue {
     border: 1px dotted blue;

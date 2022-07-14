@@ -35,8 +35,16 @@ body {
 
 a {
     color: #fca311;
-    font-style: italic;
 } 
+
+a:visited {
+  color: #f7c674;
+}
+
+a:hover {
+  color: #cf9029;
+  font-weight: bold;
+}
 
 .border-blue {
     border: 1px dotted blue;
